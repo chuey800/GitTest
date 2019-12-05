@@ -28,6 +28,7 @@
     self.view.backgroundColor = [UIColor blueColor];
     NSLog(@"master");
     
+    NSLog(@"dev");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
