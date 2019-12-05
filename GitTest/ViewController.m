@@ -26,6 +26,8 @@
     self.view.backgroundColor = [UIColor yellowColor];
     
     self.view.backgroundColor = [UIColor blueColor];
+    
+    NSLog(@"fenzhi1");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
